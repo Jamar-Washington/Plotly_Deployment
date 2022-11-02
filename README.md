@@ -16,4 +16,6 @@ To make the HTML file not look bland, style.css was used to make the background 
 color, in the charts.js file, the plot_bgcolor and paper_bgcolor are set to be transparent.
 
 The following is the result of all the files in the Challenge folder. The other files are used to help learn deployment on github.
+
+
 ![BB](https://user-images.githubusercontent.com/109183214/199558394-90c40824-9be1-4146-8cdc-5c3f84a98052.png)
