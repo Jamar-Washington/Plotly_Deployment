@@ -1,11 +1,11 @@
 # Plotly_Deployment
 
 ### Tools used in project
-JavaScript
-HTML
-Plotly
-CSS
-BootStrap
+**JavaScript**  
+**HTML**  
+**Plotly**  
+**CSS**  
+**BootStrap**
 
 ## Summary
 In this project, we are looking to find the bacteria that are grown in the test subject's belly button. The data for the subjects are in the samples.json file.
